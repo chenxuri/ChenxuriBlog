@@ -1,0 +1,36 @@
+---
+layout:     post
+title:      "Welcome to Cxr Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2017-10-16
+author:     "Cxr"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 杂谈
+---
+
+> “Yeah It's on. ”
+
+
+## 前言
+
+很久前就想搭建一个自己的网站，想想在上面可以自由编写喜欢的东西，感觉会很有趣。这次趁着国庆放假，开始动起手来。
+搭建过程还算顺利，同时也学到了点新知识，总体还算满意。以后会更新些Java相关博客。或许也会添加些其它有意思的小东西，敬请期待！
+
+---
+
+## 正文
+下面谈下该网站搭建细节
+要搭建一个网站，你需要 服务器+博客代码+域名
+#### 服务器
+一般来说都使用云服务器，可以从阿里云和腾讯云购买。也许有人会问了，有免费的云服务器吗？有，并且十分好用，就是GitHub。
+GitHub是最大的代码托管网站。可以把项目代码上传到GitHub,通过GitHub Pages发布公开网页。具体流程参考这里[https://pages.github.com](https://pages.github.com)
+
+#### 博客代码
+Jekyll是个好用的博客生成工具，并且支持Markdown。
+（未完待续。。。）
+
+
+
+
+—— 陈旭日 写与 2017.10.16
